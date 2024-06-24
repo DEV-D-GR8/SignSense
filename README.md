@@ -1,4 +1,4 @@
-# ASL Recognition Transformer Model
+# SignSense: Transformer based ASL Recognition Model
 
 This repository contains a transformer-based model for real-time American Sign Language (ASL) recognition. The model leverages state-of-the-art transformer architecture to accurately interpret ASL gestures and utilizes the Gemini-Pro LLM API for constructing sentences from recognized ASL signs. The system supports live video input for seamless, on-the-fly translation of ASL gestures into textual form, aiding communication accessibility.
 
