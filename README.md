@@ -29,4 +29,4 @@ This project aims to provide a robust solution for real-time ASL recognition usi
 For a visual demonstration, check out our [YouTube video](https://youtu.be/6XNY6YBXgyI?si=RoZdn_8jL35EMuYD).
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for more information.
