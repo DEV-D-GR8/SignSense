@@ -26,7 +26,7 @@ This project aims to provide a robust solution for real-time ASL recognition usi
 - **Gemini-Pro LLM API**: API for generating sentences from recognized ASL words.
 
 ## Demo
-For a visual demonstration, check out our [YouTube video](#) (Link to be provided soon).
+For a visual demonstration, check out our [YouTube video](https://youtu.be/6XNY6YBXgyI?si=RoZdn_8jL35EMuYD).
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
