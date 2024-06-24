@@ -44,7 +44,7 @@ To run the project on your local machine, follow these steps:
    python app.py
 
 ## Demo
-For a visual demonstration, check out our [YouTube video](https://youtu.be/6XNY6YBXgyI?si=RoZdn_8jL35EMuYD).
+For a visual demonstration, check out my [YouTube video](https://youtu.be/6XNY6YBXgyI?si=RoZdn_8jL35EMuYD).
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for more information.
